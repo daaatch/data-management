@@ -1,0 +1,1 @@
+select * from meridiano.dbo.pacchettid 
